@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - BossAttack
+  - BossBullet
+  - NextRoom1
+  - NextRoom2
+  - FxTemporaire
+  - BorderBullet
+  - Bullet
+  - Arrow
+  - SafeZone
+  - BOOM!
+  - Danger
+  - Skille
+  - Skillq
+  - End
+  - Ready
+  - NextRoom4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Boss
+  - Player
+  - PlayerDameaged
+  - Attack
+  - skillQ
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Boss
+    uniqueID: 4065409923
+    locked: 0
+  - name: Player
+    uniqueID: 709706779
+    locked: 0
+  - name: Arrow
+    uniqueID: 3811348881
+    locked: 0
+  - name: Map
+    uniqueID: 1800672803
+    locked: 0
